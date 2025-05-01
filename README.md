@@ -34,11 +34,11 @@
 ## ✨ Highlight Projects
 | Project | Tech | Demo | Summary |
 |---------|------|------|---------|
-| **fib_api** | Node.js · Express · Jest | <https://entake-speee.onrender.com/fib?n=10> | Fibonacci API with unit tests & Render CI/CD |
+| **fib_api** | Node.js · Express · Jest | _coming&nbsp;soon_ | Fibonacci API with unit tests & Render CI/CD |
 | **rails_myapp (WIP)** | Rails 7 API · Docker | _coming&nbsp;soon_ | JWT auth, Swagger docs & Cloud Run-ready template |
 | **stop_watch** | React + TypeScript | _coming&nbsp;soon_ | Minimal stopwatch SPA (Vite migration in progress) |
-| **darts_app** | Node.js · Express · MySQL | <https://youtu.be/【動画ID】> | Darts-match tracker: login, stats & ranking dashboard 🇯🇵 :contentReference[oaicite:0]{index=0} |
-| **disc** | Laravel 9 · React · Tailwind | <https://discmyapp-e131419ad102.herokuapp.com> | Bulletin board & whiteboard for an Ultimate Frisbee team 🎯 :contentReference[oaicite:1]{index=1} |
+| **darts_app** | Node.js · Express · MySQL | _coming&nbsp;soon_ | Darts-match tracker: login, stats & ranking dashboard 🇯🇵 :contentReference[oaicite:0]{index=0} |
+| **disc** | Laravel 9 · React · Tailwind | _coming&nbsp;soon_ | Bulletin board & whiteboard for an Ultimate Frisbee team 🎯 :contentReference[oaicite:1]{index=1} |
 
 ---
 
