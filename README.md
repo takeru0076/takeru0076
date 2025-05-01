@@ -19,7 +19,7 @@
 - 🎓 B.S. in Computer Science  
 - 🏅 Passed the **Applied Information Technology Engineer** exam (Japan)  
 - 🌏 8-month internship at a travel-tech company  
-  - Built reservation-management dashboards (Vue.js & Node.js)
+  - Vue.js & Node.js
 
 ---
 
