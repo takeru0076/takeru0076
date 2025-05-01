@@ -26,7 +26,8 @@
 ## 🛠 Tech Stack
 | Back-end | Front-end | Cloud / DevOps |
 |----------|-----------|----------------|
-| ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-3eaf7c?logo=vue.js&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-3eaf7c?logo=vue.js&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+
 
 ---
 
@@ -48,12 +49,8 @@
 ---
 
 ## 📫 Contact
-<a href="mailto:takeru@example.com">
+<a href="mailto:takeru200276@icloud.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
 <sub>🚧 Live demos marked “coming soon” will be published shortly—stay tuned! Issues & PRs are welcome.</sub>
